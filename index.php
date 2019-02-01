@@ -8,8 +8,10 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <script src="https://cdn.netpie.io/microgear.js"></script>
-  <script src="raphael-2.1.4.min.js"></script>
-  <script src="justgage.js"></script>
+  <!-- <script src="raphael-2.1.4.min.js"></script> -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.4/raphael-min.js"></script>
+  <!-- <script src="justgage.js"></script> -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/justgage/1.2.9/justgage.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
   <script src="https://www.google.com/jsapi"></script>
   <!-- <script src="weather-icons.min.css"></script> -->
