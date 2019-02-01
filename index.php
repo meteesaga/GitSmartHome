@@ -137,16 +137,6 @@ p {
         <div id="Tem" class="gauge"></div>
         <div id="Hum" class="gauge"></div>
       </div>
-      <div class="panel-footer">
-        <a><span class="pull-left" data-toggle="collapse" data-target="#demo">View Details</span></a>
-        <div id="demo" class="collapse">
-          <p></p><br>
-          <p id="ip_cluster1"></p>
-          <p id="mac_cluster1"></p>
-          <p id="ssid_cluster1"></p>
-        </div>
-        <div class="clearfix"></div>
-      </div>
     </div>
 
   </div>
@@ -161,18 +151,6 @@ p {
         <div id="Hum2" class="gauge"></div>
       </div>
 
-      <div class="panel-footer">
-        <a><span class="pull-left" data-toggle="collapse" data-target="#demo1">View Details</span></a>
-        <!-- <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Simple collapsible</button> -->
-        <div id="demo1" class="collapse">
-   <p></p><br>
-   <p id="ip_cluster2"></p>
-   <p id="mac_cluster2"></p>
-   <p id="ssid_cluster2"></p>
-
- </div>
- <div class="clearfix"></div>
-</div>
 </div>
 </div>
 
